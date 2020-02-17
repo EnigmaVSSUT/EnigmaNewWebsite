@@ -4,10 +4,10 @@
 
 ## Work to be done :hammer_and_wrench:
 
-- [ ]**PAGE_1** : Basic structure will remain as it is and
+[ ]**PAGE_1** : Basic structure will remain as it is and
 just try to replace the mockup text with the things we do.
 
-- [ ]**PAGE_2** : Looks good as it is and here we will
+[ ]**PAGE_2** : Looks good as it is and here we will
 add the previous projects as well as milestones of the club.
 
 - [ ]**PAGE_3** : Not sure about this page / 
