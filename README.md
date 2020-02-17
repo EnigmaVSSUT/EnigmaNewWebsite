@@ -4,20 +4,20 @@
 
 ## Work to be done :hammer_and_wrench:
 
-[X]**PAGE_1** : Basic structure will remain as it is and
+- **PAGE_1** : Basic structure will remain as it is and
 just try to replace the mockup text with the things we do.
 
-[x]**PAGE_2** : Looks good as it is and here we will
+- **PAGE_2** : Looks good as it is and here we will
 add the previous projects as well as milestones of the club.
 
-- [ ]**PAGE_3** : Not sure about this page / 
+- **PAGE_3** : Not sure about this page / 
 open to suggestions/ Will try to remove the stock images
 and add photos of our club.
 
-- [ ]**PAGE_4** : It will reamin as it is and it will contain
+- **PAGE_4** : It will reamin as it is and it will contain
 contact us details/ and the map style looks cool.
 
-- [ ]**PAGE_5** : In this page we will try to add some original
+- **PAGE_5** : In this page we will try to add some original
 documentations, medium articles or open source projects built 
 by our club.
 
