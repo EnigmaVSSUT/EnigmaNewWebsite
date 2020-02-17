@@ -1,6 +1,6 @@
 # EnigmaNewWebsite   :sparkles:
 
-**DDEMO_HERE** : https://enigmavssut.github.io/EnigmaNewWebsite/.
+**DEMO_HERE** : https://enigmavssut.github.io/EnigmaNewWebsite/.
 
 ## Work to be done :hammer_and_wrench:
 
