@@ -4,11 +4,13 @@
 
 ## Change Log:
 1. Positioned Enigma-logo-particles as a responsive background.
-2. Resolved Entry1. Resolution: brought that background image in-front of those hover-blocking divs and decreased the opacity to make it look like a background
+2. Fixed Issue1. Resolution: brought that background image in-front of those hover-blocking divs and decreased the opacity to make it look like a background
+3. Fixed Issue2. Resolution: decreased the particle-slider height and positioned to center.
 
-## Known Issues:
-- Entry1: Particles are not responding to hover: being behind of other divs/containers.
-- Entry2: Anchor Tags in class intro-options not responding to hover: being behind of the slider particles.
+## Issues Log:
+- Issue1: Particles are not responding to hover: being behind of other divs/containers.
+- Issue2: Anchor Tags in class intro-options not responding to hover: being behind of the slider particles.
+- Issue3: Particle-slider disappears when clicked on Hamburger button.
 
 ## Work to be done :hammer_and_wrench:
 
@@ -22,7 +24,7 @@ add the previous projects as well as milestones of the club.
 open to suggestions/ Will try to remove the stock images
 and add photos of our club.
 
-- **PAGE_4** : It will reamin as it is and it will contain
+- **PAGE_4** : It will remain as it is and it will contain
 contact us details/ and the map style looks cool.
 
 - **PAGE_5** : In this page we will try to add some original
