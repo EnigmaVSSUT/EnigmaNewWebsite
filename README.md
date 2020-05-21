@@ -28,6 +28,8 @@
   - Although the map is not of VSSUT ...but the style looks cool. A cooler **photoshopped image** (of VSSUT, Burla Map) is most welcome.  
 - **PAGE_5** : In this page we will try to add some original documentations, medium articles or open source projects built by our club.
 
+- **Website Load Time Improvements needed** :
+  - minify all types of .js and .css files to .min.js and .min.css (also update links in index.html to these minified versions of files).
 
 ### If you want to contribute to this project, fork :fork_and_knife: this project and pull up a request to merge your changes.
 
