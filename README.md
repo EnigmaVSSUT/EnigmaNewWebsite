@@ -2,6 +2,9 @@
 
 **DEMO_HERE** : https://enigmavssut.github.io/EnigmaNewWebsite/.
 
+##Change Log:
+1. Positioned Enigma-logo-particles as a responsive background. 
+
 ## Work to be done :hammer_and_wrench:
 
 - **PAGE_1** : Basic structure will remain as it is and
