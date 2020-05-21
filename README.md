@@ -3,7 +3,10 @@
 **DEMO_HERE** : https://enigmavssut.github.io/EnigmaNewWebsite/.
 
 ## Change Log:
-1. Positioned Enigma-logo-particles as a responsive background. 
+1. Positioned Enigma-logo-particles as a responsive background.
+
+## Known Issues:
+1. Entry1: Particles are not responding to hover: being behind of other divs/containers.
 
 ## Work to be done :hammer_and_wrench:
 
