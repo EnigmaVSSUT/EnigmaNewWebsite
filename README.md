@@ -16,7 +16,7 @@
 
 - **PAGE_1** : 
   - Basic structure will remain as it is and just try to replace the mockup text with the things we do.
-  - In mobile and Tablet versions of webpage, proper padding and margins are required in '''class= "intro--options'''.
+  - In mobile and Tablet versions of webpage, proper padding and margins are required in ''' class= "intro--options '''.
   
 - **PAGE_2** : 
   - Basic Structure looks good as it is and here we will add the previous projects as well as milestones of the club.
