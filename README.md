@@ -4,9 +4,11 @@
 
 ## Change Log:
 1. Positioned Enigma-logo-particles as a responsive background.
+2. Resolved Entry1. Resolution: brought that background image in-front of those hover-blocking divs and decreased the opacity to make it look like a background
 
 ## Known Issues:
-1. Entry1: Particles are not responding to hover: being behind of other divs/containers.
+- Entry1: Particles are not responding to hover: being behind of other divs/containers.
+- Entry2: Anchor Tags in class intro-options not responding to hover: being behind of the slider particles.
 
 ## Work to be done :hammer_and_wrench:
 
