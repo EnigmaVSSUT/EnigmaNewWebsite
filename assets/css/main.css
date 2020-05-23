@@ -273,7 +273,7 @@ code,kbd,pre,samp{
 
 #particle-slider{
     position: absolute;
-    top:23%;
+    top:40vh;
     z-index:10;
     opacity:0.5;
     height:400px;
