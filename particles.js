@@ -49,5 +49,5 @@ document.querySelector('.outer-nav--return').addEventListener('click', ()=>{
   canvas.classList.add('draw');
   particleSlider.appendChild(canvas);
 
-  setTimeout(particleInit(), 1000);
+  setTimeout(()=>{particleInit()}, 1000);
 })
