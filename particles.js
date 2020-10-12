@@ -39,15 +39,30 @@ function particleInit(){
 
 particleInit();
 
-document.querySelector('.outer-nav--return').addEventListener('click', ()=>{
-  // debugger;
-  let particleSlider = document.querySelector('#particle-slider');
-  particleSlider.querySelectorAll('canvas').forEach(canvasElement => {
-    canvasElement.remove();
-  });
-  let canvas=document.createElement("canvas");
-  canvas.classList.add('draw');
-  particleSlider.appendChild(canvas);
+// document.querySelectorAll('.ps-fix').forEach(Element => {
+//   Element.addEventListener('click', ()=>{
+//   // debugger;
+//   let particleSlider = document.querySelector('#particle-slider');
+//   particleSlider.querySelectorAll('canvas').forEach(canvasElement => {
+//     canvasElement.remove();
+//   });
+//   let canvas=document.createElement("canvas");
+//   canvas.classList.add('draw');
+//   particleSlider.appendChild(canvas);
 
-  setTimeout(()=>{particleInit()}, 1000);
+//   setTimeout(()=>{particleInit()}, 1000);
+
+document.querySelectorAll('.ps-fix').forEach(Element => {
+  Element.addEventListener('click', ()=>{
+    // debugger;
+    let particleSlider = document.querySelector('#particle-slider');
+    particleSlider.querySelectorAll('canvas').forEach(canvasElement => {
+      canvasElement.remove();
+    });
+    let canvas=document.createElement("canvas");
+    canvas.classList.add('draw');
+    particleSlider.appendChild(canvas);
+  
+    setTimeout(()=>{particleInit()}, 1000);
+  });
 })
